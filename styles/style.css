@@ -12,9 +12,7 @@ header {
 }
 .header__links-list {
   display: flex;
-  justify-content: space-between;
   gap: 33px;
-
   justify-content: center;
   list-style: circle;
 }
