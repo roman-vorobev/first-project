@@ -10,6 +10,7 @@ header {
   margin-left: 5.2px;
   margin-bottom: 4px;
 }
+
 .header__links-list {
   display: flex;
   gap: 33px;
